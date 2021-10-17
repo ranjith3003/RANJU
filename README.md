@@ -1,2 +1,0 @@
-# RANJU
-It's Me
