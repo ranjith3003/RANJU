@@ -1,7 +1,7 @@
 <h1 align="center">
   <img alt="banner" src="assets/RANJITH.gif" />
   
-  𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img src="assets/gifs/Hi.gif" width="30px">
+  𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="https://github.com/ranjith3003/RANJU/blob/main/assests/gifs/Earth.gif" width="24px">/>! <img src="assets/gifs/Hi.gif" width="30px">
 </h1>
 
 <p align="center">
