@@ -7,7 +7,7 @@
 <p align="center">
   <em>
     This is B-TECH, Ranjith, a 3rd year undergraduate at <a href="https://www.bitsathy.ac.in/"> <b>Bannari Amman Institute of Technology</b>, Sathyamangalam</a>. <br>
-    A budding <b>Front-End Web Developer</b> <img src="https://github.com/ranjith3003/RANJU/blob/main/assets/gifs/Developer.gif" width="30px"> and a <b>Programming Enthusiast</b>&nbsp;<img src="https://github.com/ranjith3003/RANJU/blob/main/assests/gifs/Developer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    A budding <b>Front-End Web Developer</b> <img src="https://github.com/ranjith3003/RANJU/blob/main/assests/gifs/Developer.gif" width="30px"> and a <b>Programming Enthusiast</b>&nbsp;<img src="https://github.com/ranjith3003/RANJU/blob/main/assests/gifs/Developer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/ranjith3003/RANJU/blob/main/assests/gifs/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/ranjith3003/RANJU/blob/main/assests/gifs/Medal.gif" width="20px">&nbsp.
